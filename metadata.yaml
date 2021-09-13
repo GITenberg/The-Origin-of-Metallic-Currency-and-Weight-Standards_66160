@@ -1,0 +1,25 @@
+_repo: The-Origin-of-Metallic-Currency-and-Weight-Standards_66160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ridgeway, William
+    birthdate: 1853
+    deathdate: 1926
+    gutenberg_agent_id: '53661'
+    url: http://www.gutenberg.org/2009/agents/53661
+    wikipedia: https://en.wikipedia.org/wiki/William_Ridgeway
+description: ''
+gutenberg_issued: '2021-08-28'
+identifiers:
+  gutenberg: '66160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Money -- Origin'
+- !lcc 'HG'
+- !lcsh 'Weights and measures -- History'
+- GITenberg
+title: The Origin of Metallic Currency and Weight Standards
+url: http://www.gutenberg.org/ebooks/66160
